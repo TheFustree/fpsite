@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fpsite/static/css/main.f855e6bc.css",
+    "main.js": "/fpsite/static/js/main.f393380a.js",
+    "index.html": "/fpsite/index.html",
+    "main.f855e6bc.css.map": "/fpsite/static/css/main.f855e6bc.css.map",
+    "main.f393380a.js.map": "/fpsite/static/js/main.f393380a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f393380a.js"
+  ]
+}
