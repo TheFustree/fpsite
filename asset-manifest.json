@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/fpsite/static/css/main.f855e6bc.css",
-    "main.js": "/fpsite/static/js/main.f393380a.js",
+    "main.css": "/fpsite/static/css/main.6181d221.css",
+    "main.js": "/fpsite/static/js/main.0447d2c1.js",
+    "static/media/Oswald_VariableFont.ttf": "/fpsite/static/media/Oswald_VariableFont.7cecd0da606d25b0905d.ttf",
+    "static/media/Sensal_Regular.ttf": "/fpsite/static/media/Sensal_Regular.3e8ebe57f9adc0a5ee7d.ttf",
+    "static/media/Durik.ttf": "/fpsite/static/media/Durik.fb828359c51e039d25e3.ttf",
+    "static/media/LogoForSiteWhite1.svg": "/fpsite/static/media/LogoForSiteWhite1.288127c82fdbdb1aabb9.svg",
     "index.html": "/fpsite/index.html",
-    "main.f855e6bc.css.map": "/fpsite/static/css/main.f855e6bc.css.map",
-    "main.f393380a.js.map": "/fpsite/static/js/main.f393380a.js.map"
+    "main.6181d221.css.map": "/fpsite/static/css/main.6181d221.css.map",
+    "main.0447d2c1.js.map": "/fpsite/static/js/main.0447d2c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.f393380a.js"
+    "static/css/main.6181d221.css",
+    "static/js/main.0447d2c1.js"
   ]
 }
