@@ -1,22 +1,16 @@
-
-import './App.css';
+import './styles/common.css';
+import Header from "./components/header/Header";
+import ResponsiveNavbar from "./components/navbar/ResponsiveNavbar";
+import Footer from "./components/footer/Footer";
+import './styles/fonts.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="common">
+      <Header/>
+      <ResponsiveNavbar/>
+      <h1>hello</h1>
+      <Footer/>
     </div>
   );
 }

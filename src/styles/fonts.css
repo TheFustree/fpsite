@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: sensal;
+    src: url(./fonts/Sensal_Regular.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: durik;
+    src: url(./fonts/Oswald_VariableFont.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: Oswald;
+    src: url(./fonts/Durik.ttf);
+    font-style: normal;
+    font-weight: normal;
+}
