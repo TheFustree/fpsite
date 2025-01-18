@@ -79,16 +79,16 @@ nav ul li a:hover {
 }
 
 .hamburger-active .line:nth-child(1) {
-  transform: translateY(12px);
+  transform: translateY(9px);
 }
 
 .hamburger-active .line:nth-child(3) {
-  transform: translateY(-5px) rotate(90deg);
+  transform: translateY(-7px) rotate(90deg);
 }
 
 .menubar {
   display: none;
-  position: absolute;
+  position: fixed;
   top: 60;
   right: -100%;
   display: flex;
