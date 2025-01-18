@@ -9,7 +9,7 @@ function App() {
     <div className="common">
       <Header/>
       <ResponsiveNavbar/>
-      <h1>hello</h1>
+      <h1>hellofff</h1>
       <Footer/>
     </div>
   );
