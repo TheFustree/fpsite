@@ -1,0 +1,11 @@
+html, body, .common{
+    display: flex;
+    min-width: 320px;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: durik, Oswald;
+    color: #333;
+    background-color: rgb(242, 242, 242);
+}

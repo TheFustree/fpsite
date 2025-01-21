@@ -1,0 +1,48 @@
+.footer{
+  margin: 0;
+  padding: 0;
+  position: relative;
+  margin-top: auto;
+}
+.footer_block{
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  margin: 24px 6%;
+  border-top: 2px solid #111
+
+}
+
+/* social */
+.social{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+  padding: 1em 0;
+}
+.media_icons{
+  display: flex;
+}
+.media{
+  border-radius: 0.5em;
+  background: black;
+}
+
+/* information */
+.information{
+  display: flex;
+  align-items: center;
+  margin: 1em 0;
+  font-family: Oswald;
+  font-size: 16px;
+  font-weight: bold;
+}
+.date{
+  font-size: 14px;
+  padding: 0 5px 0 0;
+  color: #111;
+}
+.teg{
+  color: #111;
+}
